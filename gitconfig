@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = parker.joana@gmail.com
+	name = Joana Parker
